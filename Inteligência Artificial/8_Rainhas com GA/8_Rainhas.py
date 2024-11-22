@@ -164,6 +164,3 @@ if __name__ == "__main__":
         id = 0
         print(f"----------------------------------------------------------------------------")
         tabuleiro.pop()
-
-        #Caso 150 - 100 - 20% -> Resultado - O algoritmo encontrou 3 respostas
-        #Caso 200 - 100 - 20% -> Resultado - O algoritmo encontrou 5 respostas
